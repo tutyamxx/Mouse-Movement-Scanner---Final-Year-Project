@@ -16,3 +16,6 @@
 * I have really enjoyed building this piece of software so I have commented almost every line of code for you, the developer or whoever is checking this repository, to understand better. Good Luck !
           
           
+* Picture of the GUI
+
+![Screenshot](screenshot.png)
