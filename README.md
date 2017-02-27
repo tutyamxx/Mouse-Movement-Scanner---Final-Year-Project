@@ -11,4 +11,6 @@
           - https://globalmousekeyhook.codeplex.com/
           - https://github.com/gmamaladze/globalmousekeyhook
           
+ * I have really enjoyed building this piece of software so I have commented almost every line of code for you, the developer or whoever is checking this repository, to understand better. Good Luck !
+          
           
