@@ -18,4 +18,4 @@
           
 * Picture of the GUI
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
